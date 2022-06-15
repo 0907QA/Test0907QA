@@ -3,6 +3,7 @@
 	"Lang": "ru",
 	"DebugLog": false,
 	"ВерсияVA": "ver 1.2.038.1",
+	"КаталогФич": "C:\\Users\\maria\\Documents\\GitHub\\Test0907QA\\Feateres\\Internal\\Продажи\\Mod4Job2.feature",
 	"ДобавлятьКИмениСценарияУсловияВыгрузки": false,
 	"ЗаписыватьВидеоВыполненияТестов": false,
 	"КоличествоКадровВидеоВыполненияТестов": 5,
@@ -100,7 +101,8 @@
 	},
 	"ДелатьОтчетВоВнутреннемФормате": false,
 	"КаталогиБиблиотек": [
-		"C:\\1CKyrs\\vanessa-automation\\features\\Libraries"
+		"C:\\1CKyrs\\vanessa-automation\\features\\Libraries",
+		"C:\\Users\\maria\\Documents\\GitHub\\Test0907QA\\Feateres\\External"
 	],
 	"СписокТеговИсключение": [
 		"IgnoreOnCIMainBuild"
